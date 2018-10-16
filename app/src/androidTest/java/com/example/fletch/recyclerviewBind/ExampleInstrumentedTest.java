@@ -1,4 +1,4 @@
-package com.example.fletch.recyclerviewtest;
+package com.example.fletch.recyclerviewBind;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
